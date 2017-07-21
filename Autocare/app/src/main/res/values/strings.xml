@@ -10,4 +10,5 @@
     <string name="err_msg_number">Enter the Mobile Number</string>
     <string name="err_msg_password">Enter the password</string>
 
+    <string name="FCMsourceCodeURL">https://github.com/firebase/quickstart-android</string>
 </resources>
