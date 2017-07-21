@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AutoCare</string>
+    <string name="activity_name">Messenger</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">Message</string>
+    <string name="hint_email">Number</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Send SMS</string>
+    <string name="err_msg_message">Enter your Message</string>
+    <string name="err_msg_number">Enter the Mobile Number</string>
+    <string name="err_msg_password">Enter the password</string>
+
+</resources>

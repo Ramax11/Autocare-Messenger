@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531102786810",
+    "firebase_url": "https://autocare-a82dd.firebaseio.com",
+    "project_id": "autocare-a82dd",
+    "storage_bucket": "autocare-a82dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531102786810:android:2e9dd0cf586ef66c",
+        "android_client_info": {
+          "package_name": "com.apinfotech.autocare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531102786810-sqll5c7t2ulkrohid2cj7atb39ianjjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apinfotech.autocare",
+            "certificate_hash": "263e2c647631f50c3e06db19b9400166e0e14a29"
+          }
+        },
+        {
+          "client_id": "531102786810-g0t1sonnp9ftplrrfg0jlqhc9thua2bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO6DHbDdi5pzMQoWRCyN-hlswUXQuEmpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531102786810-g0t1sonnp9ftplrrfg0jlqhc9thua2bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
